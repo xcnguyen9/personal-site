@@ -1,0 +1,15 @@
+h1 {
+	font: 60px Arial, Helvetica, sans-serif;
+	color: #f2f2f2;
+	text-align: center;
+}
+
+h2 {
+	font: 20px Arial, Helvetica, sans-serif;
+	text-align: center;
+	letter-spacing: 10px;
+}
+
+body {
+	background-color: #00ffff;
+}
